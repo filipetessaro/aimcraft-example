@@ -11,4 +11,6 @@ vaulting, menus and LAN sessions. It is the plugin's own example game, packaged 
 2. Play starts the example map alone. Host Game and Find Games play with a friend on the same network.
 3. `HOW_TO_PLAY.txt` in the zip has the keys and the controller buttons, and what to try.
 
+Get the plugin on Fab: https://www.fab.com/listings/244faed3-a74e-406c-b9b3-2bc794921181
+
 Docs: https://apps.tessaroapps.com/aimcraft/docs/
